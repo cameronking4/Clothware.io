@@ -1,6 +1,6 @@
 # Clothware.io
 Turn 2D images of clothing into usable 3D objects. Use API to automate your clothing design, character design or integrate into your e-commerce solution. <br>
-Click here to [DEMO](https://84fb-184-105-175-12.ngrok.io/docs#/default/upload_upload_post)!
+Click [here](https://84fb-184-105-175-12.ngrok.io/docs#/default/upload_upload_post) to demo!
 
 ## How it works 
 
