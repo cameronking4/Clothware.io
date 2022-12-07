@@ -17,7 +17,7 @@ You can also manipulate the texture.png file in any [photo editor](https://pixlr
 
 ## Examples
 
-You can test the API with front(odd) & back (even) image files found in the 'input' folder of this repo. <br>
+You can test the API with front (odd) & back (even) image files found in the 'input' folder of this repo. <br>
 You can view example generated 3d objects by downloading one of the output zip files found in the 'output' folder of this repo.
 
 ![Success!](/demo.gif "Make use of 3d artifacts")<br>
