@@ -23,3 +23,7 @@ You can test the API with front (odd) & back (even) image files found in the 'in
 You can view example generated 3d objects by downloading one of the output zip files found in the 'output' folder of this repo.
 
 ![Success!](/demo.gif "Make use of 3d artifacts")<br>
+
+## Code / Backend 
+Looking to replicate this API, here's the code:
+https://github.com/cameronking4/Clothware
