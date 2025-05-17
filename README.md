@@ -1,4 +1,6 @@
 # Clothware.io
+![image](https://github.com/user-attachments/assets/a6b49d97-e85f-469e-a9a2-73022a7c9f50)
+
 Turn 2D images of clothing into realistic 3D garments. Use Clothware API to automate your clothing design, character design or integrate it into an e-commerce solution. Click [here](https://github.com/cameronking4/Clothware) for source code (Python notebook)!
 
 ![Demo!](/demopants.gif "Example of generated 3D AMIRI pants")<br>
@@ -7,6 +9,9 @@ Turn 2D images of clothing into realistic 3D garments. Use Clothware API to auto
 ## How it works 
 
 Using API, make POST call with front & back images of T-shirt or pants. Specify type in form as 'shirt' or 'pants". <br>
+
+![image](https://github.com/user-attachments/assets/3889a9db-fb86-4e01-b586-06903df71d2a)
+
 
 ![Clothware API!](/sc1.png "Make POST call with input form data")<br>
 
@@ -18,6 +23,8 @@ Drag the artifacts into an object viewer, such as [this one (3dviewer.net)](http
 You can also manipulate the texture.png file in any [photo editor](https://pixlr.com) to refine the look and design of the garment.
 
 ## Examples
+![image](https://github.com/user-attachments/assets/004fce68-1e50-4757-8c47-5e036b302029)
+![image](https://github.com/user-attachments/assets/04633a40-3963-4f2f-b4c9-bfe4f793dfa2)
 
 You can test the API with front (odd) & back (even) image files found in the 'input' folder of this repo. <br>
 You can view example generated 3d objects by downloading one of the output zip files found in the 'output' folder of this repo.
